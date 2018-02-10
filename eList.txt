@@ -1,0 +1,4 @@
+
+Number of Employees: 2 |
+Name: Mark Doe | ID: 123123 | Pay Rate: 10.5
+Name: Jill Smith | ID: 112233 | Pay Rate: 10.5
